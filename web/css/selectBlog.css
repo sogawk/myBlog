@@ -1,0 +1,17 @@
+#div4 {
+    float: right;
+    margin-right: 80px;
+    width: 1320px;
+    height: 700px;
+}
+
+#div4 img {
+    height: 40px;
+    border-radius: 20px;
+}
+
+#div4 span {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+}

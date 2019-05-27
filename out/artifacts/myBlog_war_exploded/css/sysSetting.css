@@ -1,0 +1,35 @@
+#div4 {
+    float: right;
+    margin-right: 80px;
+    width: 1320px;
+    height: 700px;
+}
+
+span div {
+    width: 650px;
+    height: 300px;
+    background-color: white;
+}
+
+#div41 {
+    float: left;
+}
+
+#div42 {
+    float: right;
+}
+
+.ss {
+    float: right;
+    height: 40px;
+    width: 500px;
+    margin: 10px;
+}
+
+.haha input {
+    float: right;
+    width: 120px;
+    margin-top: 20px;
+    margin-right: 50px;
+    background-size: cover;
+}

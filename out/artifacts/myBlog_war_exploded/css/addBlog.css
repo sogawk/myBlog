@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+#all {
+    width: 1900px;
+    height: 970px;
+
+}
+
+#div4 {
+    margin-top: 20px;
+    float: left;
+    height: 700px;
+    width: 70%;
+    padding-left: 50px;
+}
+
+#div4 span input {
+    height: 40px;
+    width: 600px;
+    margin: 20px;
+}
+#div4 select{
+    width: 600px;
+}
+
+#kind {
+    height: 40px;
+    width: 640px;
+    margin: 20px;
+}
+
+#div4 #div41 {
+    margin: 40px 20px;
+}
+
+#div4 #div42 {
+    margin: 20px 100px;
+    float: right;
+}
+
+button {
+    float: right;
+    margin-right: 100px;
+}

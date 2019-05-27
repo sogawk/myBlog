@@ -1,0 +1,59 @@
+.div4-- {
+    width: 700px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+#div4-1 {
+    margin: 10px 10px 10px 30px;
+    float: left;
+
+    background-image: url("../image/wei-2-fabiaowenzhang.jpg");
+}
+
+#div4-2 {
+    margin: 10px;
+    float: left;
+    background-image: url("../image/wei-2-liuyan.jpg");
+}
+
+#div4-3 {
+    margin: 10px 10px 10px 30px;
+    float: left;
+    background-image: url("../image/wei-2.shangchuanfujainpsd.jpg");
+}
+
+#div4-4 {
+    margin: 10px;
+    float: left;
+    background-image: url("../image/wei-2-youlian.jpg");
+
+}
+
+.div4-- div {
+    float: right;
+    padding-right: 50px;
+    font-size: 17px;
+    color: white;
+    line-height: 50px;
+}
+
+.xia {
+    padding: 10px;
+    float: left;
+    background-color: white;
+    margin: 10px 0 0 30px;
+    height: 350px;
+    width: 430px;
+    font-size: 17px;
+}
+
+.span1 {
+    font-size: 19px;
+    font-weight: bold;
+}
+
+span {
+    font-size: 30px;
+}

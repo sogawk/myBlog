@@ -1,0 +1,14 @@
+show databases;
+
+create database myBlog;
+
+use myblog;
+
+drop table blog ;
+
+create table blog(id int primary key not null auto_increment  comment 'id主键',userid int not null comment'发布用户blog',title varchar(100) comment '标题',content varchar(6000) not null comment '博客正文',
+sign varchar(300) comment '标签',kind varchar(300) comment '分blog类' ,review int  comment '是否开启评论 1为开启 0为关闭' ,createtime varchar(50) comment'发布时间',vieww int comment '浏览量',a varchar(255) comment '备用'
+,b varchar(255) comment '备用',c varchar(255) comment '备用' );
+
+create table user(id int primary key not null auto_increment comment '主键',name varchar(30) not null comment '用户名 非空',password varchar(255) not null comment '密码 非空');
+
